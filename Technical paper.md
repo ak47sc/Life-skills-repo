@@ -127,3 +127,8 @@ There are four main guidelines that need to be followed:
 
 ## 7. Conclusion
 REST provides a scalable, simple, and flexible architectural style for building web services. By adhering to its principles, developers can create APIs that are performant, easy to maintain, and can integrate with other systems. REST has been widely adopted in modern web development for building APIs due to its simplicity and scalability.
+
+## 8. References
+1. [Geek for Geeks](https://www.geeksforgeeks.org/rest-api-architectural-constraints/)
+2. [Wikipedia](https://en.wikipedia.org/wiki/REST)
+3. [restfulapi](https://restfulapi.net/)
