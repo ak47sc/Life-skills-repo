@@ -68,7 +68,7 @@ There are four main guidelines that need to be followed:
            "name":"lays",
            "price":10
          }
-      }
+      ]
      ```
 2. **GET/products/2** :
    - Retrieves product with ID 2.
