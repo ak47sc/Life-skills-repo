@@ -45,13 +45,13 @@ There are four main guidelines that need to be followed:
 - The server can send executable code (like JavaScript) to the client, which then can be executed by the client.
 - This constraint is optional.
 
-## 3 Common HTTP Methods Used in REST
+## 3. Common HTTP Methods Used in REST
 - **GET** : Retrieves resources from the server and can cache the information. Example: getting a list of products.
 - **POST** : Creates a new resource with the information provided in the request, and it is not cacheable.
 - **PUT** : Updates an existing resource with an ID specified in the request.
 - **DELETE** : Deletes an existing resource specified in the request.
 
-## 4 Some REST API interactions
+## 4. Some REST API interactions
 1. **GET/products** :
    - Retrieves a list of products.
    - Response example :
@@ -113,13 +113,13 @@ There are four main guidelines that need to be followed:
      204 No Content
      ```
 
-## 5 Advantages of REST
+## 5. Advantages of REST
 - **Scalability**
 - **Interoperability**
 - **Simplicity**
 - **Statelessness**
 
-## 6 Disadvantages of REST
+## 6. Disadvantages of REST
 - **Lack of state**
 - **Lack of security**
 - **Less reliable**
