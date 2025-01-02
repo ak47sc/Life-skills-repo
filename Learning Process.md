@@ -4,6 +4,7 @@ Feynman Technique is a process of learning by getting a broad understanding of t
 
 ### Question 2
 #### In this video, what was the most interesting story or idea for you?
+The interesting story is of the speaker's perseverance. Even if she was weak in math and science, she has emerged as a successful individual and has had a chance to give a TED talk to thousands of people. Also even if she had a successful job she did not stop and wanted to improve herself further in problem-solving skills by following proper techniques.
 
 
 ### Question 3
@@ -20,3 +21,7 @@ Feynman Technique is a process of learning by getting a broad understanding of t
 
 ### Question 5
 #### What are some of the actions you can take going forward to improve your learning process?
+- Writing all the sub-topics in a technology and learning them one by one
+- Commit the office hours fully to learning the skills without distractions
+- Put my phone aside from all social media apps
+- Follow active and diffused modes of thinking 
