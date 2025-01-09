@@ -43,7 +43,7 @@ What is the book's perspective about Identity?
 
 - Outcome can change with your identity
 - Shapes your habits
-- Knowing your identity helps to do your habits regularly
+- Knowing your identity helps to make your habits regularly
 - Fixed identity is required in life to become successful
 
 ### Question 6
@@ -68,5 +68,16 @@ Write about the book's perspective on how to make a habit harder to do?
 ### Question 8:
 Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 
+The habit of exercising
+- Develop a tiny habit of doing a push when I wake up in the morning and progressively increasing the number
+- Take a photo in front of the mirror every day and be happy about the progress even if it is not visible
+- Hear music while I am exercising
+- Gamify it by curating a list of exercises as daily challenges and some additional optional challenges and keep track of the points I accumulate daily
+
 ### Question 9:
 Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+
+The habit of sleeping late
+- Develop a tiny habit of switching off my mobile after 11 pm so it becomes unattractive to remain awake at night
+- Feel bad in the morning if I sleep late
+- Not sleep all day so it becomes hard to stay awake at night and sleep early
