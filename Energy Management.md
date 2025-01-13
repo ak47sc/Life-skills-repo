@@ -42,6 +42,16 @@ What are some ideas that you can implement to sleep better?
 
 ### Question 6
 Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
+- Exercise is vital for a healthy brain.
+- It can provide immediate effects like increased focus, and dopamine and long-term effects like protection against conditions like depression, Alzheimer's disease, and dementia.
+- Memory enhancement due to increased brain cells in the hippocampus, which helps in long-term memory.
+- A minimum of 30 minutes of exercise 3 or 4 times a week is required
+- Exercise is fun and helps to improve overall health
 
 ### Question 7
 What are some steps you can take to exercise more?
+- Keep a daily routine of exercising
+- Take stairs whenever possible
+- Developing a tiny habit to exercise after an action
+- Make it fun don't overdo it
+- Going to the gym is not mandatory can do it at home with simple exercises
