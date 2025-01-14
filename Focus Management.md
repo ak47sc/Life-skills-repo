@@ -22,3 +22,10 @@ How can you implement the principles in your day to day life?
 
 ### Question 4
 What are the dangers of social media, in brief?
+- Decrease in attention span
+- Causes distractions and prevents from doing deep work
+- Lack of physical interactions
+- Psychological effects like loneness, anxiety and depression
+- Can consume your time which can be used elsewhere
+- It is like a slot machine which can cause addiction
+- Life can be peaceful without it
